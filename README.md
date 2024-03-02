@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [ankitrajdev.github.io](ankitrajdev.github.io)
 
-- 📫 How to reach me **ankit_gamer69@hoymail.com**
+- 📫 How to reach me **ankit_gamer69@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
