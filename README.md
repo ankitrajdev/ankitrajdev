@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ankit Raj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Portfolio website](ankitrajdev.github.io)
+- 🔭 I’m currently working on [Portfolio website](https://ankitrajdev.github.io/)
 
 - 🌱 I’m currently learning **JavaScript and React JS**
 
-- 👨‍💻 All of my projects are available at [ankitrajdev.github.io](ankitrajdev.github.io)
+- 👨‍💻 All of my projects are available at [ankitrajdev.github.io](https://ankitrajdev.github.io/)
 
 - 📫 How to reach me **ankit_gamer69@hotmail.com**
 
