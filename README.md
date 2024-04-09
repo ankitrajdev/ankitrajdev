@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ankit Raj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-![web-development-2-YX4ZEeEEnwI13r0K](https://github.com/ankitrajdev/ankitrajdev/assets/144972277/f42ca39a-298d-43a2-8d75-58f39b6672f8)
-
-
+<div align="center">
+  <img height="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  />
+  
+</div>
 - 🔭 I’m currently working on [Portfolio website](https://ankitrajdev.github.io/)
 
 - 🌱 I’m currently learning **JavaScript and React JS**
@@ -12,7 +13,8 @@
 - 📫 How to reach me **ankit_gamer69@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"![web-development-2-YX4ZEeEEnwI13r0K](https://github.com/ankitrajdev/ankitrajdev/assets/144972277/2e53bfe8-8b01-49be-b3d7-e77084f85fab)
+>
 <a href="https://instagram.com/ankit_gamer69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankit_gamer69" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@ankit_gamer69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ankit_gamer69" height="30" width="40" /></a>
 </p>
