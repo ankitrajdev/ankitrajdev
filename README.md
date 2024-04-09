@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Raj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+![web-development-2-YX4ZEeEEnwI13r0K](https://github.com/ankitrajdev/ankitrajdev/assets/144972277/f42ca39a-298d-43a2-8d75-58f39b6672f8)
+
 
 - 🔭 I’m currently working on [Portfolio website](https://ankitrajdev.github.io/)
 
