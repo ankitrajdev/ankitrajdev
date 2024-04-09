@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Raj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  />
+  <img height="150" src="https://github.com/ankitrajdev/ankitrajdev/assets/144972277/30259b35-08e4-40c0-8763-0b9f39a32bb9"  />
   
 </div>
 - 🔭 I’m currently working on [Portfolio website](https://ankitrajdev.github.io/)
